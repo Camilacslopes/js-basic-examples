@@ -9,8 +9,8 @@ function mathOperations(a, b, c, d, e, f){
 }
 
 
-console.log(mathOperations(6,5,4,3,2,1))
+console.log(mathOperations(6,5,4,3,2,1)) //10.5
 
-console.log(mathOperations(6,2,1,4,2,3))
+console.log(mathOperations(6,2,1,4,2,3)) //2744
 
-console.log(mathOperations(2,3,6,4,2,3))
+console.log(mathOperations(2,3,6,4,2,3)) //-8
