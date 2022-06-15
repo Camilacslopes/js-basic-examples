@@ -13,3 +13,37 @@ Here in this repository you will find a series of challenges that covers the ver
 - [Remove first n characters of string](https://github.com/Camilacslopes/js-basic-examples/blob/main/rm-first-characters.js)
 
 - [Get last n characters of string](https://github.com/Camilacslopes/js-basic-examples/blob/main/last-characters.js)
+
+- [Get first n characters of string](https://github.com/Camilacslopes/js-basic-examples/blob/main/get-characters.js)
+
+- [Extract first half of string](https://github.com/Camilacslopes/js-basic-examples/blob/main/first-half.js)
+
+- [Remove last n characters of string](https://github.com/Camilacslopes/js-basic-examples/blob/main/rm-last-characters.js)
+
+- [Return the percentage of a number](https://github.com/Camilacslopes/js-basic-examples/blob/main/percentage.js)
+
+- [Basic JavaScript math operators](https://github.com/Camilacslopes/js-basic-examples/blob/main/math-operations.js)
+
+- [Check if a number is even](https://github.com/Camilacslopes/js-basic-examples/blob/main/even-number.js)
+
+- [How many times does a character occur?](https://github.com/Camilacslopes/js-basic-examples/blob/main/string-occurence.js)
+
+- [Check if a number is a whole number](https://github.com/Camilacslopes/js-basic-examples/blob/main/whole-number.js)
+
+- [Multiplication, division, and comparison operators](https://github.com/Camilacslopes/js-basic-examples/blob/main/condition-and-operators.js)
+
+- [Check whether a string contains another string and concatenate]()
+
+- [Round a number to 2 decimal places](https://github.com/Camilacslopes/js-basic-examples/blob/main/round-number.js)
+
+- [Split a number into its digits](https://github.com/Camilacslopes/js-basic-examples/blob/main/number-to-digits.js)
+
+- [Clear up the chaos behind these strings](https://github.com/Camilacslopes/js-basic-examples/blob/main/organize-string.js)
+
+- [Return the next higher prime number](https://github.com/Camilacslopes/js-basic-examples/blob/main/higher-prime.js)
+
+- [Find next higher natural number that is divisble by y](https://github.com/Camilacslopes/js-basic-examples/blob/main/natural-number.js)
+
+- [Insert character after every n characters (backwards)](https://github.com/Camilacslopes/js-basic-examples/blob/main/insert-character.js)
+
+- [Find the correct word by incrementing letters in alphabet](https://github.com/Camilacslopes/js-basic-examples/blob/main/increment-letters.js)
