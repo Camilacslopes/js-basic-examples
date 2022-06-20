@@ -1,6 +1,6 @@
 # JavaScript Basic-Examples
 
-![js](https://user-images.githubusercontent.com/60490805/174625835-89e8e085-65ae-4c87-9327-721ca6491459.png)
+![js](https://user-images.githubusercontent.com/60490805/174626019-a1977275-79fe-4495-9b5e-7fd096bc823c.gif)
 
 
 **What?**
