@@ -32,7 +32,7 @@ Here in this repository you will find a series of challenges that covers the ver
 
 - [Multiplication, division, and comparison operators](https://github.com/Camilacslopes/js-basic-examples/blob/main/condition-and-operators.js)
 
-- [Check whether a string contains another string and concatenate]()
+- [Check whether a string contains another string and concatenate](https://github.com/Camilacslopes/js-basic-examples/blob/main/concatenation.js)
 
 - [Round a number to 2 decimal places](https://github.com/Camilacslopes/js-basic-examples/blob/main/round-number.js)
 
