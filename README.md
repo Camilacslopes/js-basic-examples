@@ -1,6 +1,13 @@
 # js-basic-examples
 
-Here in this repository you will find a series of challenges that covers the very basics of Javascript.
+In this repository I have gathered some examples of JavaScript challenges that can be solved with a basic level of knowledge
+
+**Why?**
+
+From my experience as a Software Developer, I have learned that it is very important to understand concepts through small practical examples, so as the level of knowledge increases the challenge increases.
+
+**How?**
+
 
 - [Sum two numbers](https://github.com/Camilacslopes/js-basic-examples/blob/main/sum-numbers.js)
 
