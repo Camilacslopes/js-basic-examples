@@ -1,13 +1,20 @@
-# js-basic-examples
+# JavaScript Basic-Examples
 
-In this repository I have gathered some examples of JavaScript challenges that can be solved with a basic level of knowledge
+![js](https://user-images.githubusercontent.com/60490805/174625835-89e8e085-65ae-4c87-9327-721ca6491459.png)
+
+
+**What?**
+
+In this repository I have gathered some examples of JavaScript challenges that can be solved with a basic level of knowledge. 
+All these challenges were taken from https://www.jschallenger.com/javascript-fundamentals/javascript-basics
 
 **Why?**
 
-From my experience as a Software Developer, I have learned that it is very important to understand concepts through small practical examples, so as the level of knowledge increases the challenge increases.
+From my experience as a Software Developer, I have learned that it is very important to understand concepts through small practical examples, so as the level of knowledge increases the challenge increases. You can practice and learn more about the fundamentals, syntax and basic concepts of JavaScript.
 
 **How?**
 
+In each of the examples you will find the requirements needed to find the solution to the challenge in question. Through this, we will explore different concepts used by JavaScript, such as conditionals, value types, math operators, array methods and much more.
 
 - [Sum two numbers](https://github.com/Camilacslopes/js-basic-examples/blob/main/sum-numbers.js)
 
