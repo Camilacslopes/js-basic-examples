@@ -6,7 +6,7 @@
 **What?**
 
 In this repository I have gathered some examples of JavaScript challenges that can be solved with a basic level of knowledge. 
-All these challenges were taken from https://www.jschallenger.com/javascript-fundamentals/javascript-basics
+All these challenges were taken from https://www.jschallenger.com/
 
 **Why?**
 
